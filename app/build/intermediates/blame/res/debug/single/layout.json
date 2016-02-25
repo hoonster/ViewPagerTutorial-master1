@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ViewPagerTutorial-master1/app/build/intermediates/res/merged/debug/layout/activity_page_view.xml",
+        "source": "/home/hlee/AndroidStudioProjects/ViewPagerTutorial-master1/app/src/main/res/layout/activity_page_view.xml"
+    },
+    {
+        "merged": "/home/hlee/AndroidStudioProjects/ViewPagerTutorial-master1/app/build/intermediates/res/merged/debug/layout/myfragment_layout.xml",
+        "source": "/home/hlee/AndroidStudioProjects/ViewPagerTutorial-master1/app/src/main/res/layout/myfragment_layout.xml"
+    }
+]
